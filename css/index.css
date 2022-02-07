@@ -3851,6 +3851,9 @@ h1.page-title + .tag-cloud-list {
   height: 100%;
   background-color: var(--preloader-bg);
 }
+#loading-box .loading-left-bg {
+  left: 0;
+}
 #loading-box .loading-right-bg {
   right: 0;
 }
