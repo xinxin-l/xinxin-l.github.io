@@ -3447,25 +3447,28 @@ span.categoryBar-list-count::after {
   right: -100%;
 }
 li.categoryBar-list-item:nth-child(1) {
-  background: url('https://pic1.zhimg.com/v2-0895dfc69b559db57df39f2e45879ee4_b.jpg');
+  background: url('https://raw.githubusercontent.com/xinxin-l/blog_img/main/img/dont.jpg');
 }
 li.categoryBar-list-item:nth-child(2) {
-  background: url('https://pic4.zhimg.com/v2-f3a343dd7d1ec3d3c70ac9ff57088c93_b.jpg');
+  background: url('https://raw.githubusercontent.com/xinxin-l/blog_img/main/img/drink.jpg');
 }
 li.categoryBar-list-item:nth-child(3) {
-  background: url('https://pic2.zhimg.com/v2-05cc8336d190538f2225535da74cc2b5_b.jpg');
+  background: url('https://raw.githubusercontent.com/xinxin-l/blog_img/main/img/say.jpg');
 }
 li.categoryBar-list-item:nth-child(4) {
-  background: url('https://pic1.zhimg.com/v2-281cc5d73ef62e960b800d31322bd644_b.jpg');
+  background: url('https://raw.githubusercontent.com/xinxin-l/blog_img/main/img/drean.jpg');
 }
 li.categoryBar-list-item:nth-child(5) {
-  background: url('https://pic4.zhimg.com/v2-c97ed14c718c7d93bc3be2d8ec0adacb_b.jpg');
+  background: url('https://raw.githubusercontent.com/xinxin-l/blog_img/main/img/sheep.jpg');
+}
+li.categoryBar-list-item:nth-child(6) {
+  background: url('https://raw.githubusercontent.com/xinxin-l/blog_img/main/img/train2.jpg');
+}
+li.categoryBar-list-item:nth-child(7) {
+  background: url('https://raw.githubusercontent.com/xinxin-l/blog_img/main/img/llove.jpg');
 }
 li.categoryBar-list-item:nth-child(1)>span::after {
-  content: '有关生活' !important;
-}
-li.categoryBar-list-item:nth-child(2)>span::after {
-  content: '前端学习' !important;
+  content: !important;
 }
 li.categoryBar-list-item {
   width: 32.3% !important;
