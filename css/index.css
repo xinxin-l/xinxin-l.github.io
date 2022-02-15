@@ -3467,6 +3467,12 @@ li.categoryBar-list-item:nth-child(6) {
 li.categoryBar-list-item:nth-child(7) {
   background: url('https://raw.githubusercontent.com/xinxin-l/blog_img/main/img/llove.jpg');
 }
+li.categoryBar-list-item:nth-child(8) {
+  background: url('https://raw.githubusercontent.com/xinxin-l/blog_img/main/img/v2-cb2754d66f6c3f9c7330fd4678860bb2_1440w.jpg');
+}
+li.categoryBar-list-item:nth-child(9) {
+  background: url('https://raw.githubusercontent.com/xinxin-l/blog_img/main/img/v2-0f4763adeaad3389034a230581b29b23_1440w.jpg');
+}
 li.categoryBar-list-item:nth-child(1)>span::after {
   content: !important;
 }
